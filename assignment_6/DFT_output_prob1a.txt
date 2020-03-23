@@ -1,0 +1,54 @@
+Input f is:
+0.00
+0.00
+1.00
+0.00
+0.00
+0.00
+0.00
+Euclidean norm of the difference between the estimated result and the actual result as a measure of accuracy is: 1.5435090268566047e-15
+Input f is:
+0.00
+0.00
+0.00
+0.00
+0.00
+1.00
+0.00
+Euclidean norm of the difference between the estimated result and the actual result as a measure of accuracy is: 9.066215190086561e-15
+Input f is:
+0.00
+0.00
+0.00
+0.00
+1.00
+0.00
+0.00
+0.00
+0.00
+0.00
+Euclidean norm of the difference between the estimated result and the actual result as a measure of accuracy is: 4.7146948623413195e-15
+Input f is:
+0.00
+0.00
+0.00
+0.00
+1.00
+0.00
+0.00
+0.00
+0.00
+0.00
+Euclidean norm of the difference between the estimated result and the actual result as a measure of accuracy is: 9.000000000000002
+Input f is:
+0.00
+0.00
+0.00
+0.00
+1.00
+0.00
+0.00
+0.00
+0.00
+0.00
+Euclidean norm of the difference between the estimated result and the actual result as a measure of accuracy is: 4.734507369567292e-16
